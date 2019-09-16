@@ -1,2 +1,2 @@
 # partyPlanning
- fake party to plan
+ fake paty to plan
